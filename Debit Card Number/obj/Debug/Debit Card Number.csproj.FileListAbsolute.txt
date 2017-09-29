@@ -1,0 +1,6 @@
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Debit Card Number\bin\Debug\Debit Card Number.exe.config
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Debit Card Number\bin\Debug\Debit Card Number.exe
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Debit Card Number\bin\Debug\Debit Card Number.pdb
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.csprojResolveAssemblyReference.cache
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.exe
+c:\users\sarym\documents\visual studio 2017\Projects\Exercises CSharp Intro and Basic Syntax\Debit Card Number\obj\Debug\Debit Card Number.pdb
