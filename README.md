@@ -1,2 +1,2 @@
 # exercice-repo
-adding text to my local repo because I want to make a conflict
+I did resolve the problem by deciding what to keep here
