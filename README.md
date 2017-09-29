@@ -5,4 +5,4 @@ Edited again in master branch
 
 Trying to push with GitBash
 
-Now trying to make a conflict with GitBash
+I did resolve the problem with GitBashby deciding what to keep here
