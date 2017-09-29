@@ -6,3 +6,5 @@ Edited again in master branch
 Trying to push with GitBash
 
 I did resolve the problem with GitBashby deciding what to keep here
+
+Only on ver2.1
